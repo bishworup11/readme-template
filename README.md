@@ -124,7 +124,7 @@ https://github.com/bishworup11
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./images/me.jpg" width="400" title="profile image"/>  
 😊
 
 <br/>
